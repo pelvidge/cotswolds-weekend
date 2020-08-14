@@ -1,4 +1,4 @@
-# On the Lulce Travel Cotswolds weekend map adapted from a fork of leaflet-map-csv
+# On the Luce Travel Cotswolds weekend map adapted from a fork of leaflet-map-csv
 Build a simple Leaflet map with point markers from a CSV file.
 
 <p align="center">
@@ -6,6 +6,6 @@ Build a simple Leaflet map with point markers from a CSV file.
 </p>
 
 ## Demo
-https://handsondataviz.github.io/leaflet-map-csv/
+https://pelvidge.github.io/cotswolds-weekend/
 ## Tutorial
 https://handsondataviz.org/leaflet-maps-with-csv.html
